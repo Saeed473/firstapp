@@ -9,6 +9,9 @@ const App = () => {
     <div>
      {/* <AdminDashboard /> */}
      <EmployeeDashboard />
+     <h1>
+      hello saeed here
+     </h1>
     </div>
   )
 }
